@@ -10,22 +10,22 @@
 
 ---
 
-*Designing AI systems that deliver business results within regulatory guardrails.*
+*Engineering AI solutions that drive operational value within regulated, high-stakes environments.*
 
 </div>
 
 ## About Me
 
-I build and deploy AI solutions at the intersection of **financial services**, **regulation**, and **cross-cultural execution**. Currently an **AI Specialist at BMW Group Financial Services**, I work on agentic workflows, ML pipelines, and GenAI products operating across multiple international markets.
+I build and deploy AI solutions at the intersection of **financial services**, **regulation**, and **organizational change**. Currently an **AI Specialist at BMW Group Financial Services**, I work on intelligent process automation, ML pipelines, and customer-facing AI products serving over a dozen international markets.
 
-My path is unconventional: I started in **international law** drafting billion-dollar EPC contracts between Brazil and South Korea, then taught myself to code, moved into fintech compliance, and found that the most impactful problems live where technology meets regulation. Today I think in architectures but speak in business outcomes.
+My path is unconventional: I started in **international law** drafting billion-dollar EPC contracts between Brazil and South Korea, then taught myself to code, moved into fintech compliance, and discovered that the most consequential problems live where technology meets regulation. Today I begin with the business problem, work backward to the right architecture, and measure success by operational impact.
 
 ### What I Do
 
-- **Agentic AI & Multi-Agent Systems** -- Orchestrating autonomous workflows for complex financial processes
-- **ML Modeling & Pipelines** -- Predictive models for credit decisioning, recovery optimization, and customer retention
-- **GenAI Productionization** -- Taking prototypes from proof-of-concept to production at global scale
-- **AI Strategy & Governance** -- Bridging executive vision and technical execution in regulated environments
+- **Intelligent Automation & Multi-Agent Systems** -- Orchestrating governed AI workflows with full decision auditability for complex financial operations
+- **ML Modeling & Pipelines** -- Predictive frameworks for recovery optimization, customer retention, and behavioral intelligence
+- **GenAI Productionization** -- Advancing prototypes through structured validation stages to production at global scale
+- **AI Strategy & Process Transformation** -- Connecting boardroom priorities to engineering execution in regulated environments
 
 ## Tech Stack
 
@@ -66,7 +66,7 @@ My path is unconventional: I started in **international law** drafting billion-d
 
 ## Global Fluency
 
-I speak **7 languages** and have lived on **4 continents** -- context-switching is the skill.
+I speak **7 languages** and have lived on **4 continents** -- the real capability is reading the room, in any room, anywhere.
 
 | Language | Proficiency | | Language | Proficiency |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ I speak **7 languages** and have lived on **4 continents** -- context-switching 
 
 <div align="center">
 
-**Based in Sao Paulo, Brazil** · Operating globally · Open to conversations about AI transformation, agentic architectures, and financial services innovation.
+**Based in Sao Paulo, Brazil** · Operating globally · Open to conversations about AI-led transformation, intelligent process design, and financial services innovation.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=juliocesar-bezerra&color=4a9eff&style=flat-square&label=Profile+Views)
 
