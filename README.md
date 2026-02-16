@@ -2,7 +2,7 @@
 
 # Julio Cesar Bezerra
 
-**AI Strategist | Financial Services Specialist | Former Lawyer Turned Engineer**
+**AI Transformation Leader | Financial Services Strategist | Strategy-to-Execution Bridge**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-juliocesar--bezerra.github.io-4a9eff?style=for-the-badge&logo=github-pages&logoColor=white)](https://juliocesar-bezerra.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-juliocb01-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliocb01)
@@ -10,22 +10,22 @@
 
 ---
 
-*Engineering AI solutions that drive operational value within regulated, high-stakes environments.*
+*Leading AI transformation that turns regulatory complexity into competitive advantage — from strategy through global-scale deployment.*
 
 </div>
 
 ## About Me
 
-I build and deploy AI solutions at the intersection of **financial services**, **regulation**, and **organizational change**. Currently an **AI Specialist at BMW Group Financial Services**, I work on intelligent process automation, ML pipelines, and customer-facing AI products serving over a dozen international markets.
+I lead AI transformation initiatives that bridge strategic vision with technical execution — turning regulatory complexity into competitive advantage across global financial services operations. Currently **AI Transformation Leader at BMW Group Financial Services**, I drive intelligent automation, ML pipelines, and customer-facing AI products serving 12+ international markets.
 
 My path is unconventional: I started in **international law** drafting billion-dollar EPC contracts between Brazil and South Korea, then taught myself to code, moved into fintech compliance, and discovered that the most consequential problems live where technology meets regulation. Today I begin with the business problem, work backward to the right architecture, and measure success by operational impact.
 
 ### What I Do
 
-- **Intelligent Automation & Multi-Agent Systems** -- Orchestrating governed AI workflows with full decision auditability for complex financial operations
-- **ML Modeling & Pipelines** -- Predictive frameworks for recovery optimization, customer retention, and behavioral intelligence
-- **GenAI Productionization** -- Advancing prototypes through structured validation stages to production at global scale
-- **AI Strategy & Process Transformation** -- Connecting boardroom priorities to engineering execution in regulated environments
+- **Intelligent Automation & Multi-Agent Systems** — Design and deploy governed AI workflows with full decision auditability, enabling autonomous financial operations at scale
+- **ML Modeling & Pipelines** — Build predictive frameworks driving recovery optimization, customer retention, and behavioral intelligence across 12+ markets
+- **GenAI Productionization** — Advance GenAI from prototype to production through structured validation, risk mitigation, and stakeholder alignment
+- **AI Strategy & Process Transformation** — Translate boardroom priorities into engineering execution, driving measurable ROI in regulated environments
 
 ## Tech Stack
 
@@ -68,24 +68,27 @@ My path is unconventional: I started in **international law** drafting billion-d
 
 I speak **7 languages** and have lived on **4 continents** -- the real capability is reading the room, in any room, anywhere.
 
-| Language | Proficiency | | Language | Proficiency |
-|---|---|---|---|---|
-| Portuguese | Native | | French | Intermediate |
-| English | Native / Bilingual | | Korean | Intermediate |
-| Spanish | Advanced | | Chinese (Mandarin) | Intermediate |
-| | | | German | Beginner |
+| Language | Proficiency |
+|---|---|
+| Portuguese | Native |
+| English | Native / Bilingual |
+| Spanish | Advanced |
+| French | Intermediate |
+| Korean | Intermediate |
+| Chinese (Mandarin) | Intermediate |
+| German | Beginner |
 
 ## Compliance Disclaimer
 
-> Most of my professional work involves proprietary systems, internal tools, and confidential business processes within regulated financial services environments. Due to corporate compliance policies and intellectual property obligations, **these projects cannot be shared publicly as open-source repositories**.
+> Most of my professional work involves proprietary systems and confidential processes within regulated financial services environments. Due to corporate compliance and IP obligations, **these projects cannot be shared publicly**.
 >
-> The repositories you see here represent personal projects, learning exercises, and open contributions. They do not reflect the full scope or complexity of my professional work. For a more complete picture of my experience and capabilities, please visit my [portfolio](https://juliocesar-bezerra.github.io) or connect with me on [LinkedIn](https://www.linkedin.com/in/juliocb01).
+> The repositories here represent personal projects and learning exercises. They do not reflect the full scope of my professional work. For a complete picture, visit my [portfolio](https://juliocesar-bezerra.github.io) or connect on [LinkedIn](https://www.linkedin.com/in/juliocb01).
 
 ---
 
 <div align="center">
 
-**Based in Sao Paulo, Brazil** · Operating globally · Open to conversations about AI-led transformation, intelligent process design, and financial services innovation.
+**Based in São Paulo, Brazil** · Operating globally · Available for strategic advisory, speaking engagements, and senior leadership opportunities in AI transformation and financial services innovation.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=juliocesar-bezerra&color=4a9eff&style=flat-square&label=Profile+Views)
 
