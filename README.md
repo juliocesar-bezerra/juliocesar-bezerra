@@ -4,7 +4,7 @@
 
 **AI Transformation Leader | Financial Services Strategist | Strategy-to-Execution Bridge**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-juliocesar--bezerra.github.io-4a9eff?style=for-the-badge&logo=github-pages&logoColor=white)](https://juliocesar-bezerra.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-juliocesar--bezerra.vercel.app-4a9eff?style=for-the-badge&logo=vercel&logoColor=white)](https://juliocesar-bezerra.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-juliocb01-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliocb01)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-7c5cfc?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juliocesar1908@gmail.com)
 
@@ -82,7 +82,7 @@ I speak **7 languages** and have lived on **4 continents** -- the real capabilit
 
 > Most of my professional work involves proprietary systems and confidential processes within regulated financial services environments. Due to corporate compliance and IP obligations, **these projects cannot be shared publicly**.
 >
-> The repositories here represent personal projects and learning exercises. They do not reflect the full scope of my professional work. For a complete picture, visit my [portfolio](https://juliocesar-bezerra.github.io) or connect on [LinkedIn](https://www.linkedin.com/in/juliocb01).
+> The repositories here represent personal projects and learning exercises. They do not reflect the full scope of my professional work. For a complete picture, visit my [portfolio](https://juliocesar-bezerra.vercel.app) or connect on [LinkedIn](https://www.linkedin.com/in/juliocb01).
 
 ---
 
